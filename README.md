@@ -52,3 +52,6 @@ Follow the steps below to create a Google Speech-to-Text API and obtain the `key
    - `client_x509_cert_url`: The client X.509 certificate URL from the `key.json` file.
 
 6. Ensure the `universe_domain` field is set to "googleapis.com".
+
+### Step 5: Launch 'autosubtitle.py' with the completed `key.json` File in the same folder
+
