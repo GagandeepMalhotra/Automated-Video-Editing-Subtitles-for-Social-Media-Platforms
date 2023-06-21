@@ -1,4 +1,4 @@
-#Setting up Google Speech-to-Text API and Obtaining key.json
+Setting up Google Speech-to-Text API and Obtaining key.json
 This guide will walk you through the steps to set up the Google Speech-to-Text API and obtain a key.json file in the specified format. The key.json file contains the necessary credentials for accessing the API.
 
 Prerequisites
